@@ -1,4 +1,4 @@
-<!-- Encabezado con estilo -->
+<!-- Refencias en el trabajo escrito -->
 <h1 align="center">⚡️ Simulación y Optimización en un Procesador Escalar Segmentado ⚡️</h1>
 
 <p align="center">
