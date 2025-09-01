@@ -1,39 +1,45 @@
+<!-- Encabezado con estilo -->
+<h1 align="center">⚡️ Simulación y Optimización en un Procesador Escalar Segmentado ⚡️</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Assembler-MIPS-blue?style=for-the-badge&logo=assemblyscript" alt="MIPS">
+  <img src="https://img.shields.io/badge/Simulator-MARS-orange?style=for-the-badge" alt="MARS">
+  <img src="https://img.shields.io/badge/Language-Assembly-green?style=for-the-badge&logo=gnu" alt="Assembly">
+</p>
 
 ---
 
-# **Simulación y optimización de un programa en un procesador escalar segmentado**
----
+## 📖 Descripción
 
-Este repositorio contiene los scripts en lenguaje de proramación ensamblador MIPS. En este se van a simular y optimizar la ejecución en un procesador escalar segmentado. 
-
-## Scripts incluidos
-
-1. QuitianJhedenth_Mayor.asm: Programa que encuentra el número mayor de una lista de 3 a 5 números ingresados por el usuario.
-
-2. QuitianJhedenth_Menor.asm: Programa que encuentra el número menor de una lista de 3 a 5 números ingresados por el usuario.
-
-3. QuitianJhedenth_Fibonacci.asm: Programa que genera la serie Fibonacci de n términos y calcula la suma total de los términos.
+Este repositorio contiene programas en **Lenguaje Ensamblador MIPS**, desarrollados para **simular y optimizar** la ejecución en un **procesador escalar segmentado**.  
+Su propósito es apoyar el aprendizaje en arquitectura de computadores y optimización de bajo nivel.
 
 ---
 
-## Herramientas utilizadas
+## 📂 Scripts incluidos
 
-* MARS (MIPS Assembler and Runtime Simulator): Simulador para escribir, ensamblar y ejecutar código MIPS.
+🔹 **`QuitianJhedenth_Mayor.asm`** → Encuentra el **número mayor** en una lista de 3 a 5 números ingresados por el usuario.  
 
-* Java: Requerido para ejecutar MARS (versión 8 o superior recomendada).
+🔹 **`QuitianJhedenth_Menor.asm`** → Encuentra el **número menor** en una lista de 3 a 5 números ingresados por el usuario.  
 
---- 
+🔹 **`QuitianJhedenth_Fibonacci.asm`** → Genera la **serie de Fibonacci** hasta *n* términos y calcula la **suma total** de dichos términos.  
 
-## Estructura del repositorio
+---
 
-```
+## 🛠️ Herramientas utilizadas
+
+- **[MARS](http://courses.missouristate.edu/KenVollmar/MARS/)** → Simulador para escribir, ensamblar y ejecutar código **MIPS**.  
+- **Java (8 o superior)** → Requerido para ejecutar **MARS**.  
+
+---
+
+## 📁 Estructura del repositorio  
+
+```bash
 /
-│
 ├── QuitianJhedenth_Mayor.asm
 ├── QuitianJhedenth_Menor.asm
 ├── QuitianJhedenth_Fibonacci.asm
 └── README.md
-
-```
 
 
