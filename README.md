@@ -18,11 +18,11 @@ Su propósito es apoyar el aprendizaje en arquitectura de computadores y optimiz
 
 ## 📂 Scripts incluidos
 
-🔹 **`QuitianJhedenth_Mayor.asm`** → Encuentra el **número mayor** en una lista de 3 a 5 números ingresados por el usuario.  
+🔹 **`QuitianJhederith_Mayor.asm`** → Encuentra el **número mayor** en una lista de 3 a 5 números ingresados por el usuario.  
 
-🔹 **`QuitianJhedenth_Menor.asm`** → Encuentra el **número menor** en una lista de 3 a 5 números ingresados por el usuario.  
+🔹 **`QuitianJhederith_Menor.asm`** → Encuentra el **número menor** en una lista de 3 a 5 números ingresados por el usuario.  
 
-🔹 **`QuitianJhedenth_Fibonacci.asm`** → Genera la **serie de Fibonacci** hasta *n* términos y calcula la **suma total** de dichos términos.  
+🔹 **`QuitianJhederith_Fibonacci.asm`** → Genera la **serie de Fibonacci** hasta *n* términos y calcula la **suma total** de dichos términos.  
 
 ---
 
@@ -37,9 +37,9 @@ Su propósito es apoyar el aprendizaje en arquitectura de computadores y optimiz
 
 ```bash
 /
-├── QuitianJhedenth_Mayor.asm
-├── QuitianJhedenth_Menor.asm
-├── QuitianJhedenth_Fibonacci.asm
+├── QuitianJhederith_Mayor.asm
+├── QuitianJhederith_Menor.asm
+├── QuitianJhederith_Fibonacci.asm
 └── README.md
 
 
