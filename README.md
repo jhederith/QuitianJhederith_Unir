@@ -28,7 +28,7 @@ Su propósito es apoyar el aprendizaje en arquitectura de computadores y optimiz
 
 ## 🛠️ Herramientas utilizadas
 
-- **[MARS](http://courses.missouristate.edu/KenVollmar/MARS/)** → Simulador para escribir, ensamblar y ejecutar código **MIPS**.  
+- **[MARS]([http://courses.missouristate.edu/KenVollmar/MARS/](https://computerscience.missouristate.edu/mars-mips-simulator.htm))** → Simulador para escribir, ensamblar y ejecutar código **MIPS**.  
 - **Java (8 o superior)** → Requerido para ejecutar **MARS**.  
 
 ---
